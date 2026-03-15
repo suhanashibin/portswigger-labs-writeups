@@ -1,0 +1,19 @@
+# PortSwigger Web Security Academy Labs
+
+This repository contains writeups of labs completed on PortSwigger Web Security Academy.
+
+## Lab Categories Completed
+
+• Access Control  
+• Authentication  
+• SQL Injection  
+
+## Tools Used
+
+• Burp Suite  
+• Kali Linux  
+• Browser Developer Tools  
+
+## Purpose
+
+To practice web application penetration testing and understand common web vulnerabilities.
